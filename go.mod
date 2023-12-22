@@ -1,4 +1,4 @@
-module github.com/technologize/otel-go-contrib
+module github.com/userwerk/otel-go-contrib
 
 go 1.21
 

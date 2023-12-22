@@ -1,8 +1,8 @@
-module github.com/technologize/otel-go-contrib/otelginmetrics/example
+module github.com/userwerk/otel-go-contrib/otelginmetrics/example
 
 go 1.21
 
-replace github.com/technologize/otel-go-contrib => ../../
+replace github.com/userwerk/otel-go-contrib => ../../
 
 require (
 	github.com/gin-gonic/gin v1.9.1
