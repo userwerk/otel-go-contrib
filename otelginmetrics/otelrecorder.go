@@ -9,7 +9,7 @@ import (
 	"go.opentelemetry.io/otel/metric"
 )
 
-const instrumentationName = "github.com/technologize/otel-go-contrib/otelginmetrics"
+const instrumentationName = "github.com/userwerk/otel-go-contrib/otelginmetrics"
 
 // Recorder knows how to record and measure the metrics. This
 // has the required methods to be used with the HTTP

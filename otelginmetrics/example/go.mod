@@ -6,7 +6,7 @@ replace github.com/userwerk/otel-go-contrib => ../../
 
 require (
 	github.com/gin-gonic/gin v1.9.1
-	github.com/technologize/otel-go-contrib v1.0.1
+	github.com/userwerk/otel-go-contrib v1.0.1
 	go.opentelemetry.io/otel v1.20.0
 	go.opentelemetry.io/otel/exporters/stdout/stdoutmetric v0.41.0
 	go.opentelemetry.io/otel/sdk v1.18.0
