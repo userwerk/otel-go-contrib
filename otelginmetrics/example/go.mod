@@ -1,6 +1,6 @@
 module github.com/userwerk/otel-go-contrib/otelginmetrics/example
 
-go 1.23.3
+go 1.24.3
 
 replace github.com/userwerk/otel-go-contrib => ../../
 
